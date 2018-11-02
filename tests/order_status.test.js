@@ -7,10 +7,10 @@
  * jamey test2
 */
 
-/* premier league view has Table Row located at the mid-bottom across the full width */
-it("premier league view has Table Row located at the mid-bottom across the full width", () => {
+/* the order status view has a custom icon located at the  center of the view */
+it("the order status view has a custom icon located at the  center of the view", () => {
   /* ToDo developer needs to complete unit test 
-               premier league view has Table Row located at the mid-bottom across the full width
+               the order status view has a custom icon located at the  center of the view
                uncomment below and update the code to test
                 //instance.action(function(error) {
                 //  if (error) throw error;
