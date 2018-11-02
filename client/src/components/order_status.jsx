@@ -7,27 +7,29 @@ created by: FusionCode
 // Component Requirements
 //----------------------------------------------------------------------------------------------------------
 
-the premier league view has a status bar located at the very-top across the full width of the view
-premier league view has Navigation Title Label located at the very-top left of the view with text premier league
-premier league view has a Label located at the top center of the view with text 2w new 1100 wat ne
-premier league view has Label located at the top center of the view, text needs identified
-premier league view has a Label located at the mid-top left of the view with text § fixtures >
-premier league view has an Image located at the mid-top center of the view. this is a placeholder and should be updated with higher resolution Image
-premier league view has Label located at the mid-top right of the view, text needs identified
-premier league view has Label located at the mid-top left of the view, text needs identified
-premier league view has Label located at the mid-top center of the view, text needs identified
-premier league view has a Label located at the mid-top left of the view with text é results >
-premier league view has a Label located at the main area left of the view with text sat oct 27 2018 sou % 0-0 gﬁ; new
-premier league view has Label located at the main area center of the view, text needs identified
-premier league view has Label located at the main area right of the view, text needs identified
-premier league view has an Image located at the main area center of the view. this is a placeholder and should be updated with higher resolution Image
-premier league view has Label located at the main area right of the view, text needs identified
-premier league view has Label located at the main area center of the view, text needs identified
-premier league view has Label located at the mid-bottom left of the view, text needs identified
-premier league view has a Label located at the mid-bottom left of the view with text broadcast schedules >
-premier league view has a Label located at the bottom left of the view with text match highlights >
-premier league view has an Image located at the bottom center of the view. this is a placeholder and should be updated with higher resolution Image
-premier league view has Table Row located at the mid-bottom across the full width
+the order status view has a status bar located at the very-top across the full width of the view
+order status view has Label located at the very-top center of the view, text needs identified
+order status view has Label located at the top center of the view, text needs identified
+order status view has Label located at the top center of the view, text needs identified
+order status view has Label located at the mid-top left of the view, text needs identified
+order status view has an Image located at the mid-top center of the view. this is a placeholder and should be updated with higher resolution Image
+order status view has Label located at the mid-top right of the view, text needs identified
+order status view has Label located at the mid-top left of the view, text needs identified
+order status view has Label located at the mid-top center of the view, text needs identified
+order status view has Label located at the mid-top left of the view, text needs identified
+order status view has Label located at the main area left of the view, text needs identified
+order status view has Label located at the main area center of the view, text needs identified
+order status view has Label located at the main area right of the view, text needs identified
+order status view has an Image located at the main area center of the view. this is a placeholder and should be updated with higher resolution Image
+order status view has Label located at the main area right of the view, text needs identified
+order status view has Label located at the main area center of the view, text needs identified
+order status view has Label located at the mid-bottom left of the view, text needs identified
+order status view has Label located at the mid-bottom left of the view, text needs identified
+order status view has Label located at the bottom left of the view, text needs identified
+order status view has an Image located at the bottom center of the view. this is a placeholder and should be updated with higher resolution Image
+order status view has Table Row located at the mid-bottom across the full width
+the order status view has a custom icon located at the mid-top center of the view
+the order status view has a custom icon located at the  center of the view
 
 */
         
