@@ -1,10 +1,10 @@
 import { combineReducers } from "redux"
 import { reducer as Form } from "redux-form"
 
-import order_status from "./reducer_order_status"
+import nouswrc from "./reducer_nouswrc"
 
 const rootReducer = combineReducers({
-  order_status: order_status
+  nouswrc: nouswrc
 })
 
 export default rootReducer
