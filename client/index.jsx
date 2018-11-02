@@ -15,7 +15,7 @@
             //Parent Components
         //----------------------------------------------------------------------------------------------------------
         
-        import nouswrc from './components/nouswrc.jsx'
+        import order_status from './components/order status.jsx'
        
         //----------------------------------------------------------------------------------------------------------
         //Reducer
@@ -36,8 +36,8 @@
         
                 <Router basename="/" history={ history } >
                     <Switch>
-                        <Route path "/" component={nouswrc}
-                        <Route path="/nouswrc" component={nouswrc} /> 
+                        <Route path "/" component={order_status}
+                        <Route path="/order_status" component={order_status} /> 
 
                     </Switch>
                 </Router>
